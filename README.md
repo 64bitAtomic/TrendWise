@@ -102,4 +102,4 @@ TrendWise is an AI-driven blogging platform built with **Next.js 15 (App Router)
 
 ## ⭐️ Product Name- TrendWise
 
-👉 [View PDF Report](./Product%20Name-%20TrendWise.pdf)
+ [![View Report](./img/image.png)](./Product%20Name-%20TrendWise.pdf)
