@@ -2,7 +2,7 @@
 
 TrendWise is an AI-driven blogging platform built with **Next.js 15 (App Router)**, **Tailwind CSS**, **Google Gemini API**, and **MongoDB**. Authenticated users can generate SEO-optimized blog posts, leave comments, and browse AI-generated content — all in a beautiful dark-themed UI.
 
-![TrendWise Banner](https://your-screenshot-or-cover-image-url.png)
+![TrendWise Banner](./img/banner.png)
 
 ---
 
@@ -102,5 +102,4 @@ TrendWise is an AI-driven blogging platform built with **Next.js 15 (App Router)
 
 ## ⭐️ Product Name- TrendWise
 
-<iframe src="./Product Name- TrendWise.pdf" width="100%" height="600px"></iframe>
-
+👉 [View PDF Report](./Product%20Name-%20TrendWise.pdf)
