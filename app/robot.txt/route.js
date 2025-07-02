@@ -1,7 +1,7 @@
 export async function GET() {
   const content = `User-agent: *
 Allow: /
-Sitemap: http://localhost:3000/sitemap.xml`;
+Sitemap: https://trend-wise-seven.vercel.app/`;
 
   return new Response(content, {
     headers: {

@@ -8,7 +8,7 @@ export async function GET() {
   const urls = articles
     .map((a) => {
       return `<url>
-  <loc>https://your-domain.com/article/${a.slug}</loc>
+  <loc>https://trend-wise-seven.vercel.app/article/${a.slug}</loc>
   <lastmod>${new Date(a.createdAt).toISOString()}</lastmod>
 </url>`;
     })

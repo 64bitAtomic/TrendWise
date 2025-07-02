@@ -9,7 +9,7 @@ export const metadata = {
   openGraph: {
     title: "TrendWise - AI-Powered Blogging",
     description: "AI-driven SEO blog generator using Gemini and Next.js",
-    url: "https://your-domain.com",
+    url: "https://trend-wise-seven.vercel.app/",
     siteName: "TrendWise",
     locale: "en_US",
     type: "website",
