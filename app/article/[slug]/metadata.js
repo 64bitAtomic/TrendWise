@@ -12,7 +12,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: article?.title,
       description: article?.meta,
-      url: `https://your-domain.com/article/${slug}`,
+      url: `https://trend-wise-seven.vercel.app/article/${slug}`,
       siteName: "TrendWise",
     },
     twitter: {
